@@ -1,0 +1,20 @@
+{
+    "name": "flowsand",
+    "version": "0.0.1",
+    "description": "flowsand流程引擎",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bplok20010/flowsand.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/bplok20010/flowsand/issues"
+    },
+    "homepage": "https://github.com/bplok20010/flowsand#readme"
+}
